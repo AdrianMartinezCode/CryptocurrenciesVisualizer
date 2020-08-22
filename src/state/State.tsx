@@ -1,7 +1,7 @@
 export type AppState = {
-  cryptoApiKey: string;
+  apiKey: string;
 };
 
 export const initialAppState = {
-  cryptoApiKey: 
-}
+  apiKey: "XXXXX"
+};
